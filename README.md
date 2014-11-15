@@ -1,6 +1,9 @@
 # Snap.js
 A Library for creating beautiful mobile shelfs in Javascript
 
+TODO:
+
+ - Setup a setting to allow or disallow onMouseDown to drag on Desktop Browsers
 <a href="http://www.screenr.com/embed/0EJ7" target="_blank">View Video Preview</a>
 
 <a href="http://jakiestfu.github.io/Snap.js/" target="_blank">View Demos</a>
